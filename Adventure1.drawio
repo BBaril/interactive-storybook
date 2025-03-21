@@ -1,0 +1,105 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
+  <diagram name="Page-1" id="MfU-laKQBB00YkHqikgA">
+    <mxGraphModel dx="1784" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AnfA8gIiCytU67sk2lPZ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AnfA8gIiCytU67sk2lPZ-3" target="AnfA8gIiCytU67sk2lPZ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnfA8gIiCytU67sk2lPZ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AnfA8gIiCytU67sk2lPZ-3" target="AnfA8gIiCytU67sk2lPZ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnfA8gIiCytU67sk2lPZ-3" value="Left or Right" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AnfA8gIiCytU67sk2lPZ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AnfA8gIiCytU67sk2lPZ-12" target="AnfA8gIiCytU67sk2lPZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnfA8gIiCytU67sk2lPZ-12" value="In forest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnfA8gIiCytU67sk2lPZ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AnfA8gIiCytU67sk2lPZ-13" target="AnfA8gIiCytU67sk2lPZ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnfA8gIiCytU67sk2lPZ-13" value="river" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnfA8gIiCytU67sk2lPZ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AnfA8gIiCytU67sk2lPZ-14" target="AnfA8gIiCytU67sk2lPZ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnfA8gIiCytU67sk2lPZ-14" value="cave" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnfA8gIiCytU67sk2lPZ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AnfA8gIiCytU67sk2lPZ-15" target="AnfA8gIiCytU67sk2lPZ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnfA8gIiCytU67sk2lPZ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AnfA8gIiCytU67sk2lPZ-15" target="AnfA8gIiCytU67sk2lPZ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnfA8gIiCytU67sk2lPZ-15" value="Go in or&amp;nbsp;&lt;div&gt;turn back&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AnfA8gIiCytU67sk2lPZ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AnfA8gIiCytU67sk2lPZ-16" target="AnfA8gIiCytU67sk2lPZ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnfA8gIiCytU67sk2lPZ-16" value="Boat or&lt;div&gt;river bank&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AnfA8gIiCytU67sk2lPZ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AnfA8gIiCytU67sk2lPZ-17" target="AnfA8gIiCytU67sk2lPZ-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="79.52941176470586" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AnfA8gIiCytU67sk2lPZ-17" value="In Chamber" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnfA8gIiCytU67sk2lPZ-18" value="river" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnfA8gIiCytU67sk2lPZ-19" value="new adventure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnfA8gIiCytU67sk2lPZ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AnfA8gIiCytU67sk2lPZ-20" target="AnfA8gIiCytU67sk2lPZ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnfA8gIiCytU67sk2lPZ-20" value="meet creepy animal like frogs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnfA8gIiCytU67sk2lPZ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AnfA8gIiCytU67sk2lPZ-21" target="AnfA8gIiCytU67sk2lPZ-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnfA8gIiCytU67sk2lPZ-21" value="Help them move something Or get creaped out scared and leave" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="510" width="190" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="AnfA8gIiCytU67sk2lPZ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AnfA8gIiCytU67sk2lPZ-22" target="AnfA8gIiCytU67sk2lPZ-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnfA8gIiCytU67sk2lPZ-22" value="two paths; one up and dark scary OR down and a bit of lite" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15" y="530" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AnfA8gIiCytU67sk2lPZ-23" value="treasure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnfA8gIiCytU67sk2lPZ-24" value="Shimmering pool glow stone and fungi resort for magical creatures" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnfA8gIiCytU67sk2lPZ-25" value="a small token of thanks, bottle of healing water" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnfA8gIiCytU67sk2lPZ-27" value="start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnfA8gIiCytU67sk2lPZ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.408;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AnfA8gIiCytU67sk2lPZ-16" target="AnfA8gIiCytU67sk2lPZ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnfA8gIiCytU67sk2lPZ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.411;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AnfA8gIiCytU67sk2lPZ-22" target="AnfA8gIiCytU67sk2lPZ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnfA8gIiCytU67sk2lPZ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.431;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AnfA8gIiCytU67sk2lPZ-21" target="AnfA8gIiCytU67sk2lPZ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

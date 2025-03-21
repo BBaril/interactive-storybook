@@ -20,7 +20,8 @@
 }
 
 body {
-  background: var(--background);
+  background-color: #11112c;
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+  min-height: 100vh;
 }
