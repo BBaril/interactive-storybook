@@ -55,7 +55,7 @@ export default function Home() {
         },
 		frogs: {
             text: "After a short stroll you encounter a group of frogs. It appears they are building something. A few of them are trying to move a big branch.",
-            image: "/workingFrogs.png",
+            image: "/workingFrogs.fix.png",
             choices: [
                 { text: "Help", next: "help" },
                 { text: "Turn around", next: "rightPath2" }
