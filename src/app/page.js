@@ -102,7 +102,7 @@ export default function Home() {
         },
 		pool: {
             text: "You find a magical sanctuary. The rocks are covered in glowing fungi. The water is illuminated by glowfish sprites. You sit and relax to notice off in the distance is movement.",
-            image: "/pool.fix3.png",
+            image: "/pool.fix4.png",
             choices: [
                 { text: "Enjoy the shimmering patterns", next: "poolSide" },
                 { text: "Get up", next: "turtle" }
